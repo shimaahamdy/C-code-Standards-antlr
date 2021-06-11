@@ -1,0 +1,11 @@
+int x;
+union vb;
+enum cd;
+struct chj;
+int gil()
+{
+union tu;
+enum xz;
+struct killllllll;
+int X;
+}

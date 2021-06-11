@@ -1,0 +1,12 @@
+{
+  "Global_struct_pattern": "struct_[A-Z1-9]+",
+  "Global_union_pattern": "union_[A-Z1-9]+",
+  "local_struct_pattern": "struct_[a-z1-9]+",
+  "local_union_pattern": "union_[a-z1-9]+",
+  "local_enum_pattern": "enum_[a-z1-9]+",
+  "Global_enum_pattern": "enum_[A-Z1-9]+",
+  "function_pattern": "func_.+|main"
+  "global_var": "[A-Z1-9]+",
+  "local_var": "[a-z1-9]+"
+}
+
